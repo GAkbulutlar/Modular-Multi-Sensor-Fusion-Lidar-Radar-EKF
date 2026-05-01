@@ -1,0 +1,63 @@
+# Build directories
+build/
+dist/
+cmake-build-*/
+*.a
+*.lib
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+*.dll
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.user
+*.qmlc
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Compilation output
+compile_commands.json
+.cmake/
+
+# Generated files
+*.csv
+*.png
+fusion_results.csv
+*.dat
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Test output
+test_results.xml
+googletest/
