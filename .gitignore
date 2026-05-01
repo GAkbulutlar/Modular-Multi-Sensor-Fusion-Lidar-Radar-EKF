@@ -37,9 +37,6 @@ compile_commands.json
 .cmake/
 
 # Generated files
-*.csv
-*.png
-fusion_results.csv
 *.dat
 *.log
 
